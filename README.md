@@ -365,6 +365,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Files](https://github.com/flesler/mcp-files)** - Enables agents to quickly find and edit code in a codebase with surgical precision. Find symbols, edit them everywhere.
 - **[FHIR MCP](https://github.com/the-momentum/fhir-mcp-server)** - MCP Server that connects AI agents to FHIR servers
 - **[FileScopeMCP](https://github.com/admica/FileScopeMCP)** - Analyzes your codebase identifying important files based on dependency relationships. Generates diagrams and importance scores per file, helping AI assistants understand the codebase. Automatically parses popular programming languages, Python, Lua, C, C++, Rust, Zig.
+- **[FractalAI Agent Passport](https://www.npmjs.com/package/@fractalai/agent-passport-mcp)** - Issue and independently verify agent passports signed with ML-DSA-65 (FIPS 204): offline signature verification plus on-chain agent lookup, so a passport can be checked without trusting the issuer.
 - **[FrankfurterMCP](https://github.com/anirbanbasu/frankfurtermcp)** - MCP server acting as an interface to the [Frankfurter API](https://frankfurter.dev/) for currency exchange data.
 - **[GDB](https://github.com/pansila/mcp_server_gdb)** - A GDB/MI protocol server based on the MCP protocol, providing remote application debugging capabilities with AI assistants.
 - **[Gemsuite](https://github.com/PV-Bhat/gemsuite-mcp)** - The ultimate open-source server for advanced Gemini API interaction with MCP, intelligently selects models.
